@@ -1,7 +1,6 @@
 # Visual Wake Word Detection
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
@@ -108,7 +107,6 @@ visual-wake-word-detection/
 ├── model_quantized.tflite # Quantized TFLite model
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
-└── ... # Supporting scripts and assets
 ```
 
 _See the notebook for detailed code and methodology._
@@ -125,12 +123,6 @@ We welcome contributions! To contribute:
 - Submit a pull request with a clear description.
 
 Please follow PEP8 style and add docstrings where appropriate.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
