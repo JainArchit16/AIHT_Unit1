@@ -1,7 +1,5 @@
 # Visual Wake Word Detection
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
 ---
 
 ## Table of Contents
@@ -12,7 +10,6 @@
 - [Usage](#usage)
 - [Directory Structure](#directory-structure)
 - [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
 
@@ -39,8 +36,8 @@
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/yourusername/visual-wake-word-detection.git
-cd visual-wake-word-detection
+git clone https://github.com/JainArchit16/AIHT_Unit1.git
+cd AIHT_Unit1
 
 ```
 
