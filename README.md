@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dataset](#DataSource)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,6 +19,12 @@
 ## Project Overview
 
 **Visual Wake Word Detection** is an inclusive, real-time gesture recognition system that enables individuals—especially those with vocal impairments—to control smart home devices using finger gestures. The project leverages lightweight deep learning models (MobileNetV2) optimized for deployment on edge devices via TensorFlow Lite, making smart environments accessible and intuitive for everyone.
+
+---
+
+## DataSource
+
+- [Signs Detection Dataset on Kaggle](https://www.kaggle.com/datasets/maneesh99/signs-detection-dataset)
 
 ---
 
@@ -125,6 +132,7 @@ Please follow PEP8 style and add docstrings where appropriate.
 
 ## Credits
 
+- Dataset: [Signs Detection Dataset by maneesh99 on Kaggle](https://www.kaggle.com/datasets/maneesh99/signs-detection-dataset)
 - **Daksh Baweja** (2022UCA1810)
 - **Archit Jain** (2022UCA1865)
 - **Aditya Bhandari** (2022UCA1819)
